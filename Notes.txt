@@ -1,0 +1,9 @@
+#Python Dictionary
+
+Dictionaries are hash tables
+
+hash values could clash and there are multiple methods on how this clashing can be resolved to return the correct value
+
+06/28/2019
+
+Ternary operators: Conditional expressions, they allow an if statement to be written in a single line. 
