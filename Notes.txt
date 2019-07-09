@@ -7,3 +7,7 @@ hash values could clash and there are multiple methods on how this clashing can 
 06/28/2019
 
 Ternary operators: Conditional expressions, they allow an if statement to be written in a single line. 
+
+07/08/2019
+
+Type Annotations: A way to provide some documentation in the code to indicate what is the expected type of a variable. Does not affect runtime functioning of the program. Introduced in pthon 3.7 - still debate around how effective these are.
